@@ -1,4 +1,5 @@
-# VNF-and-AFP_Accidental-Fires_Timeseries
+# VIIRS Nightfire, MODIS C6 and VIIRS 375 m active fire detection data product: Gas Flares and Fire Events at Oil&Gas Facilities Dashboards
+
 This projects aims to produce timeseries for and corelate obsrvations of thermal anomalies obtained using VIIRS Nightfire, MODIS and VIIRS active fire detection algorithms. So far the main object for research were gas flares and fires occuring at oil and gas industry facilities which exhibit higher overall temperatures compared with other open flame sources such as, e.g., vegetation fires.
 
 # Background
@@ -11,7 +12,7 @@ VNF has regular and "pct" datasets. While the first only account for local maxim
 
 ### Test data
 
-Test dataset contains data for Erginskoye, Anastasievsko-Troitskoye (Russia) and Bulla-Deniz (Azerbaijan) fields, as well as three separate flaring facilities at Adgaz LNG (UAE) from April, 2012 till September, 2022.
+Test dataset contains data for Erginskoye (Russia, routine gas flaring), Anastasievsko-Troitskoye (Russia, fire event, later routine gas flaring) and Bulla-Deniz (Azerbaijan, fire event) fields, as well as three separate flaring facilities at Adgaz LNG (UAE, routine gas flaring) from April, 2012 till September, 2022.
 
 # Usage
 
